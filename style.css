@@ -1,0 +1,39 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+/* Base rules */
+body {
+  background-color: green;
+  color: pink;
+  font-family: Verdana;
+}
+/* Other rules ("priority") */
+/* Links */
+a {
+  color: pink;
+}
+/* Text */
+p {
+  color: pink;
+}
+/* Headers */
+h1 {
+  color: pink;
+}
+h3 {
+  color: pink;
+}
+h2 {
+  color: pink;
+}
+/* lists */
+ul {
+  color: pink;
+}
+li {
+  color: pink;
+}
+/* Centered text (Why does it not work? Bruh...)*/
+div {
+  text-align: center;
+}
