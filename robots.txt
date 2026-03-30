@@ -3,7 +3,6 @@
 # This is the default rule, which allows search engines to crawl your site (recommended).
 User-agent: *
 Allow: /
-
 # If you do not want AI bots to crawl your site, remove the # from the following lines:
 #User-agent: AI2Bot
 #User-agent: Ai2Bot-Dolma
@@ -46,3 +45,4 @@ Allow: /
 #User-agent: Webzio-Extended
 #User-agent: YouBot
 #Disallow: /
+
